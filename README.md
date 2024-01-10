@@ -11,4 +11,4 @@ bular men haqimda
 
 
 
-my github
+my git
