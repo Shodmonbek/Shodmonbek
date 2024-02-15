@@ -11,6 +11,4 @@ f
 hh
 j
 j
-gfg
-k
-l
+gf
